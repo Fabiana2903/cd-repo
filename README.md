@@ -4,8 +4,8 @@ This project will consist of building a CI/CD Pipeline for the Agile Development
 ## Project Plan
 The following links represent the first stage of the project focused on planning: 
 
-* jyre67GXK*aR
-* A link to a spreadsheet that includes the original and final project plan>
+* https://trello.com/invite/b/6dpE7Ttd/ATTI736305158d6306c7d13d79d4b517cebbA10946C3/ci-cd-pipeline-planning
+* https://docs.google.com/spreadsheets/d/1lo2eFxE5gpWsrHYt9ATi22nN4PdBqAgl8SbiTO4eqoA/edit?usp=sharing
 
 ## Instructions
 
