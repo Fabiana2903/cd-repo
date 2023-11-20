@@ -1,6 +1,5 @@
 # Overview
-Updated Readme 
-<TODO: complete this with an overview of your project>
+This project will consist of building a CI/CD Pipeline for the Agile Development in Azure course with Udacity. The project will be separated into two parts which will be Continuous Integration and Continuous Delivery. The first part will focus on CI development having subjects such as creating a Makefile, requirements, and application code, and setting up GitHub Actions. The second part will be focused on CD Development which integrates the CI part of the project with a Flask application and an Azure Pipeline. 
 
 ## Project Plan
 <TODO: Project Plan
