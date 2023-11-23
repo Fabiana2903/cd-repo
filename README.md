@@ -36,7 +36,9 @@ Make sure to copy and paste the ssh key that was recently created into a GitHub 
 4. Run ```make all``` command to install all of the project's dependencies and libraries and also run the tests
 ![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/67827b32-f008-4cf7-a04e-feb71030e628)
 
-6. 
+5. Configure GitHub actions by going to the Actions section on your repo and create a yml file to run tests. Make sure to use a supported Python version, or else the project is not going to be build.
+
+
   
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
