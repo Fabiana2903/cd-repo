@@ -27,14 +27,17 @@ This section will focus on describing the steps to complete the first part of th
 In order to do this, the user must first run the following command ```ssh-keygen -t rsa```.
 Then follow the path given to open the SSH key using ```cat     /home/odl_user/.ssh/id_rsa.pub```.
 
-Make sure to copy and paste the ssh key that was recently created into a GitHub so Azure can access the repository using this following command ```git clone git@github.com:´´´
+Make sure to copy and paste the ssh key that was recently created into a GitHub so Azure can access the repository using this following command ```git clone git@github.com:Fabiana2903/cd-repo.git´´´
 
 ![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/7ff69f6e-a069-4512-aa7c-024eca953812)
 
-   
-4. 
-5. 
-6.  
+3. Create a virtual environment running the ```python3 -m venv ~/.myrepo``` command and activate it using ```source ~/.myrepo/bin/activate```.
+
+4. Run ```make all``` command to install all of the project's dependencies and libraries and also run the tests
+![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/67827b32-f008-4cf7-a04e-feb71030e628)
+
+6. 
+  
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
