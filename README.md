@@ -38,6 +38,8 @@ Make sure to copy and paste the ssh key that was recently created into a GitHub 
 
 5. Configure GitHub actions by going to the Actions section on your repo and create a yml file to run tests. Make sure to use a supported Python version, or else the project is not going to be build.
 
+![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/a401ded4-4e35-4f26-9fe1-203b72302055)
+
 
   
 
