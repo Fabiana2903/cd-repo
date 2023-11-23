@@ -22,11 +22,14 @@ This section will focus on describing the steps to complete the first part of th
 - A file to test the functions of the previous file.
 - A GitHub repository.
 
-2. Create an SSH Key to access Azure DevOps
-   In order to do this, the user must first run the following command ```ssh-keygen -t rsa```
-3. 
+2. Create an SSH Key to access Azure DevOps.
+   
+   In order to do this, the user must first run the following command ```ssh-keygen -t rsa```.
+
+   Then follow the path given to open the SSH key using ```cat /home/odl_user/.ssh/id_rsa.pub```
 4. 
-5.  
+5. 
+6.  
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
