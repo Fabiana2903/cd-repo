@@ -47,6 +47,7 @@ Status Badge
 
 <img width="938" alt="image" src="https://github.com/Fabiana2903/ci-repo/assets/149669704/d9bb3cb8-4ce9-427c-bce2-c7b02839a40a">
 
+This link leads to the repo of the CI Section of the project https://github.com/Fabiana2903/ci-repo
   
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
