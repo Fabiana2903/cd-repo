@@ -65,7 +65,7 @@ This is a picture of the output after creating a web app.
 4. Stream logs of the web app using the following command ```az webapp log tail```
    ![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/2f0edddb-08ea-4a83-857e-d026b7f5d1b3)
 
-6. 
+5. Create a Devops organization from the Azure DevOps organizations service in the azure portal using the set credentials that appear in Udacity. 
 
 
 # ----- Instructions ------
