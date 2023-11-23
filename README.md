@@ -48,8 +48,27 @@ Status Badge
 <img width="938" alt="image" src="https://github.com/Fabiana2903/ci-repo/assets/149669704/d9bb3cb8-4ce9-427c-bce2-c7b02839a40a">
 
 This link leads to the repo of the CI Section of the project https://github.com/Fabiana2903/ci-repo
-  
 
+
+### Continuous Delivery 
+
+1. Create a new repository in GitHub, add the flask code given by the Udacity team, and clone the repo into Azure following steps 2 and 3 from the CI section.
+
+2. Create the webapp with the following the command ```az webapp up -n mywebapp2903 -l westeurope --resource-group Azuredevops```. Change the name and the configurations as needed. 
+
+This is a picture of the output after creating a web app.
+![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/c8344fff-f9db-425b-81e7-d8ec66cb5250)
+
+3. Give permissions with the ```chmod +x make_predict_azure_app.sh``` command and run the prediction file like this ```./make_predict_azure_app.sh```.
+![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/748330b2-c3f5-41f3-b41b-786000912553)
+
+4. Stream logs of the web app using the following command ```az webapp log tail```
+   ![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/2f0edddb-08ea-4a83-857e-d026b7f5d1b3)
+
+6. 
+
+
+# ----- Instructions ------
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
