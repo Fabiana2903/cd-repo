@@ -9,8 +9,9 @@ The following links represent the first stage of the project focused on planning
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+### Architectural Diagram 
+![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/40898ff9-058a-47f0-8a20-19de762d694c)
+
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
