@@ -12,6 +12,21 @@ The following links represent the first stage of the project focused on planning
 ### Architectural Diagram 
 ![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/40898ff9-058a-47f0-8a20-19de762d694c)
 
+### Continuous Integration 
+This section will focus on describing the steps to complete the first part of the project which focuses on CI development. 
+
+1. Create the following elements :
+- A Makefile to build and test the application.
+- A requirements file with the packages needed.
+- A file with some functions.
+- A file to test the functions of the previous file.
+- A GitHub repository.
+
+2. Create an SSH Key to access Azure DevOps
+   In order to do this, the user must first run the following command ```ssh-keygen -t rsa```
+3. 
+4. 
+5.  
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
