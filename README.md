@@ -23,10 +23,14 @@ This section will focus on describing the steps to complete the first part of th
 - A GitHub repository.
 
 2. Create an SSH Key to access Azure DevOps.
-   
-   In order to do this, the user must first run the following command ```ssh-keygen -t rsa```.
 
-   Then follow the path given to open the SSH key using ```cat /home/odl_user/.ssh/id_rsa.pub```
+In order to do this, the user must first run the following command ```ssh-keygen -t rsa```.
+Then follow the path given to open the SSH key using ```cat     /home/odl_user/.ssh/id_rsa.pub```.
+
+Make sure to copy and paste the ssh key that was recently created into a GitHub so Azure can access the repository using this following command ```git clone git@github.com:´´´
+
+
+   
 4. 
 5. 
 6.  
