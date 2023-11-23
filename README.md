@@ -29,6 +29,7 @@ Then follow the path given to open the SSH key using ```cat     /home/odl_user/.
 
 Make sure to copy and paste the ssh key that was recently created into a GitHub so Azure can access the repository using this following command ```git clone git@github.com:´´´
 
+![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/7ff69f6e-a069-4512-aa7c-024eca953812)
 
    
 4. 
