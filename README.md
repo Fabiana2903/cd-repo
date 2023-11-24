@@ -65,27 +65,32 @@ This is a picture of the output after creating a web app.
 4. Stream logs of the web app using the following command ```az webapp log tail```
    ![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/2f0edddb-08ea-4a83-857e-d026b7f5d1b3)
 
-5. Create a Devops organization from the Azure DevOps organizations service in the azure portal using the set credentials that appear in Udacity. 
+5. Create tests via locust and run them in your local terminal ```./loadtesting.sh``` which will run the locust file. Check the final results of your tests at the following port localhost 8089.
 
-6. Go to settings and allow Azure to create public projects. The create a project and set it in public so it can be accessed more easily.
+![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/47583fa4-e5db-4c38-90c4-12d854b692ef)
+
+
+6. Create a Devops organization from the Azure DevOps organizations service in the azure portal using the set credentials that appear in Udacity. 
+
+7. Go to settings and allow Azure to create public projects. The create a project and set it in public so it can be accessed more easily.
 ![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/ad913cbd-b13f-4a62-b7ce-8e716d0214e5)
 
-7. Create an access token and save it to use it later.
+8. Create an access token and save it to use it later.
 
-8. Create a service connection from the project settings.
+9. Create a service connection from the project settings.
 
-9. Download an agent with the following command ```curl -O https://vstsagentpackage.azureedge.net/agent//vsts-agent-linux-x64-3.227.2.tar.gz```. This one works for a Linux system.
+10. Download an agent with the following command ```curl -O https://vstsagentpackage.azureedge.net/agent//vsts-agent-linux-x64-3.227.2.tar.gz```. This one works for a Linux system.
 
-10. Create a new directory and change paths to it using the following command ```mkdir myagent && cd myagent```.
+11. Create a new directory and change paths to it using the following command ```mkdir myagent && cd myagent```.
 
-11. Extract the contents of the zip folder using this command ```tar zxvf ../vsts-agent-linux-x64-...tar.gz```. Make sure you access the new agent and configure it using the following command ´´´./config.sh´´´
+12. Extract the contents of the zip folder using this command ```tar zxvf ../vsts-agent-linux-x64-...tar.gz```. Make sure you access the new agent and configure it using the following command ´´´./config.sh´´´
 
 ![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/286cfc36-61f6-40ae-b053-2b55e83663fa)
 
 
 ![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/2e94d88f-dfcb-41b2-b95a-21350d1b6a3d)
 
-12. Switch the agent to online mode.
+13. Switch the agent to online mode.
 ![image](https://github.com/Fabiana2903/cd-repo/assets/149669704/0f368c23-146b-4171-857d-d6b8b0c1852d)
 
 ## Enhancements
